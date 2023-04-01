@@ -1,0 +1,3 @@
+base_url: https://example.com
+video_source: 0
+requests_each_scan: 100
