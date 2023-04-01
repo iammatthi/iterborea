@@ -1,6 +1,6 @@
 # Iterborea Bot
 
-Iterborea Bot is a bot that can be used to level up the Iterborea website level. It is written in Python and uses OpenCV to read the QR code from the webcam and Requests to interact with the website. To improve the speed of the bot, many requests are sent in parallel.
+Iterborea Bot is a bot that can be used to increase the Iterborea website level. It is written in Python and uses OpenCV to read the QR code from the webcam and Requests to interact with the website. To improve the speed of the bot, many requests are sent in parallel.
 
 ## Disclaimer
 
